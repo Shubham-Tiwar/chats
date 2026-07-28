@@ -44,6 +44,7 @@ Once the UI is visible, the chat app will continuously say "Disconnected" becaus
 
 Submit your finalized, corrected codebase. We will evaluate your submission by executing:
 
+
 ```bash
 docker-compose up -d --build
 ```
